@@ -1,0 +1,2227 @@
+@charset "UTF-8";
+html
+{
+	height:auto;
+}
+
+
+
+body
+{
+	overflow:hidden;
+	margin:0%;
+	padding:0%;
+	height:auto;
+}
+
+
+header
+{
+	background-color:black;
+	height:70px;
+	text-align:center;
+	padding:20px;
+	
+}
+
+.topG
+{
+	font-family:Lucida Handwriting;
+	font-size:25px;
+}
+
+.gifimg h4
+{
+	margin-top:20px;
+	font-family:Brush Script MT;
+	margin-left:20%;
+	
+}
+header h1
+{
+	color:white;
+	font-family:sans-serif;
+	font-style:italic;
+	font-size:25px;
+	padding:0px 12px;
+	border-radius:20px;
+	border:2px solid #DFCAA0;
+	display:inline-block;
+}
+
+section
+{
+	background-color:#DFCAA0;
+	width:100%;
+	padding:20px 0;
+	height:820px;
+	
+}
+
+.imgdiv
+{
+	width:50%;
+	margin-top:5%;
+	margin-left:2%;
+	display:inline-block;
+	height:600px;
+	position:relative;
+}
+
+.imgdiv p
+{
+	color:black;
+	position:absolute;
+	left:55%;
+	top:40%;
+}
+
+
+
+.imgdiv img
+{
+	width:50%;
+	height:100%;
+}
+
+
+
+
+.bg-custom
+{
+	background-color:#DFCAA0;
+}
+
+.navbar-nav .nav-link
+{
+	color:#008080;
+}
+.container-fluid .navbar-brand
+{
+	color:#A0522D;
+}
+
+.gifimg
+{
+	width:30%;
+	float:right;
+	margin-right:5%;
+	margin-top:5%;
+	height:600px;
+}
+
+.gifimg img
+{
+	width:100%;
+	height:100%;
+}
+
+.index-footer
+{
+	position:absolute;
+	background:black;
+	text-align:center;	
+	padding:15px;
+	color:#DFCAA0;
+	top:108%;
+	width:100%;
+}
+
+.aboutpage
+{
+	background-color:#008080;
+	width:auto;
+	height:880px;
+}
+.about-header h2
+{
+	color:white;
+	font-family:sans-serif;
+	font-style:italic;
+	font-size:25px;
+	padding:0px 12px;
+	border-radius:20px;
+	border:2px solid #DFCAA0;
+	display:inline-block;
+}
+
+article p
+{
+	padding:40px;
+	font-style:oblique;
+	font-weight:bold;
+}
+
+.tiles
+{
+	width:60%;
+	margin:auto;
+	left:20%;
+	height:300px;
+	position:absolute;
+	background-color:#DFCAA0;
+	top:35%;
+	
+}
+
+.first-tile
+{
+	float:left;
+	width:33.5%;
+	height:300px;
+}
+.tnd-tile
+{
+	float:left;
+	width:33.5%;
+	height:300px;
+	
+}
+.trd-tile
+{
+	float:left;
+	width:33%;
+	height:300px;
+}
+
+
+
+.tiles h3
+{
+	text-align:center;
+	margin-top:3%;
+}
+
+.img-div
+{
+	width:80%;
+	height:50%;
+	margin-left:10%;
+	margin-top:15%;
+	
+}
+
+.img-div img
+{
+	width:100%;
+	height:100%;
+}
+.exphead
+{
+	background-color:black;
+	height:80px;
+	text-align:left;
+	margin:0;
+}
+
+.exphead h1
+{
+font-size:30px;
+border-radius:0;
+border:none;
+color:#DFCAA0;
+
+}
+
+.exp
+{
+	background-color:#2093c3;
+	width:auto;
+	height:800px;
+}
+
+.innercc
+{
+	width:50%;
+	height:200px;
+	position:absolute;
+	top:20%;
+	left:25%;
+	
+}
+
+.innercc h2
+{
+	text-align:center;
+	font-family:fantasy;
+}
+
+.inntab
+{
+	width:30%;
+	height:450px;
+	color:#DFCAA0;
+	display:inline-block;
+	position:absolute;
+	top:45%;
+	left:15%;
+	color:black;
+}
+
+.inntab  h2
+{
+	text-align:center;
+	margin-top:2%;
+}
+
+.innprojects
+{
+	width:30%;
+	height:450px;
+	color:#DFCAA0;
+	display:block;
+	position:absolute;
+	top:45%;
+	left:55%;
+	color:black;
+}
+
+.innprojects h2
+{
+	text-align:center;
+}
+
+
+.carrier
+{
+	background-color:Green;
+	width:auto;
+	height:1000px;
+	overflow:auto;
+}
+
+.education
+{
+	background-color:#2093c3;
+	width:auto;
+	height:880px;
+	overflow:auto;
+}
+
+.upcoming
+{
+	background-color:Green;
+	width:auto;
+	height:1000px;
+}
+.hobbies
+{
+	background-color:Green;
+	width:auto;
+	height:1000px;
+}
+
+.project
+{
+	background-color:#2093c3;
+	width:auto;
+	height:1000px;
+	overflow:auto;
+}
+
+.exp h1
+{
+	color:red;
+	padding-top:30px;
+	margin-left:2%;
+}
+
+
+
+#firsttable th, #firsttable td, #protab
+{
+	border:2px solid black;
+		border-spacing:1px;
+	text-align:center;
+}
+
+ #protab th, #protab td
+{
+	border:2px solid black;
+	border-spacing:1px;
+	text-align:center;
+}
+
+#firsttable
+{
+	padding-left:5px;
+	margin-top:3%;
+	width:80%;
+	height:300px;
+	margin-bottom:5%;
+	margin:5% auto;
+}
+
+#protab
+{
+	width:80%;
+	margin:5% auto;
+	height:300px;
+}
+
+.expimg
+{
+	width:30%;
+	height:700px;
+	float:right;
+	margin-right:7%;
+	margin-top:2.7%;
+	background-image:url("images/expimg.jpg.webp");
+	background-repeat:no-reapeat;
+	background-size:100% 100%;
+}
+
+.inneredu
+{
+	width:50%;
+	height:850px;
+	margin-right:auto;
+	margin-left:auto;
+	background-color:#DFCAA0;
+	position: relative;
+	top:2%;
+}
+
+
+.edusec
+{
+	background-color:green;
+	width:80%;
+	position:absolute;
+	left:10%;
+	top:5%;
+	height:300px;
+}
+
+.edusec h2
+{
+	text-align:center;
+}
+
+
+#inntable
+{
+	border-collapse:collapse;
+	width:60%;
+	margin-top:1%;
+	position:absolute;
+	left:20%;
+	text-align:center;
+}
+
+#inntable td, #inntable th{
+	border:1px solid black;
+	padding:8px;
+}
+
+.edusec2
+{
+	background-color:blue;
+	width:80%;
+	position:absolute;
+	left:10%;
+	top:50%;
+	height:300px;
+}
+
+.edusec2 h2
+{
+	text-align:center;
+}
+
+#sectable
+{
+	border-collapse:collapse;
+	width:60%;
+	position:absolute;
+	left:20%;
+	margin-top:3%;
+}
+
+#sectable td, #sectable th{
+	border:1px solid black;
+	padding:8px;
+}
+
+.thrdtable
+{
+	width:38%;
+	margin-top:10%;
+	margin-left:2%;
+	position:absolute;
+	height:220px;
+}
+
+#thrtable
+{
+	border-collapse:collapse;
+	width:100%;
+	position:absolute;
+	margin-top:1%;
+	
+}
+
+#thrtable td, #thrtable th{
+	border:1px solid black;
+	padding:8px;
+}
+
+.eduimg
+{
+	width:40%;
+	background-image:url('images/giphy2.gif');
+	height:400px;
+	float:right;
+	margin-right:5%;
+	margin-top:7%;
+	position:relative;
+	background-repeat:no-reapeat;
+	background-size:100% 100%;
+}
+
+.blog
+{
+	background-color:#2093c3;
+	width:100%;
+	height:880px;
+	position:relative;
+}
+
+.blog h3
+{
+	padding:30px;
+	font-style:italic;
+	position:absolute;
+	top:30%;
+	left:40%;
+}
+
+.innproject
+{
+	width:50%;
+	height:400px;
+	background-color:red;
+	margin:10% auto;
+	
+}
+.index-footer-exp
+{
+	background-color:black;
+	width:100%;
+	height:65px;
+	text-align:center;
+	color:#DFCAA0;
+}
+.index-footer-exp p
+{
+	padding-top:20px;
+}
+.contact
+{
+	background-color:#008080;
+	height:810px;
+}
+.contact h3
+{
+	padding:30px 40px;
+	color:DFCAA0;
+	font-family:Georgia;
+	display:block;
+}
+
+.contact h3 a:hover
+{
+	color:red;
+}
+.text-area
+{
+	width:80%;
+	height:200px;
+	margin:20px auto;
+	position:absolute;
+	left:9%;
+	top:35%;
+	font-family:Time new roman;
+}
+.subject
+{
+	width:80%;
+	height:40px;
+	margin:10px auto;
+	position:absolute;
+	left:9%;
+	font-family:Time new roman;
+}
+.contactform h4
+{
+	
+	font-family:Georgia;
+	margin-left:3%;
+	position:absolute;
+	top:40%;
+}
+
+
+.contact a:hover, a:active {
+  background-color: #008080;
+}
+
+.consec
+{
+	width:60%;
+	background-color:#DFCAA0;
+	height:500px;
+	position:absolute;
+	top:20%;
+	left:20%;
+}
+
+.contact-header
+{
+	background-color:black;
+	height:80px;
+	text-align:left;
+	margin:0;
+}
+
+.contact-header h2
+{
+font-size:30px;
+border-radius:0;
+border:none;
+color:#DFCAA0;
+}
+.contact h5,h3
+{
+	text-align:center;
+}
+
+.consec input[type=text] {
+  width: 30%;
+  padding: 12px 20px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  position:absolute;
+  left:35%;
+  top:20%;
+}
+
+.consec textarea {
+  width: 30%;
+  padding: 12px 20px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height:150px;
+  position:absolute;
+  top:40%;
+  left:35%;
+  
+}
+.consec .labsub{
+  margin-left:10%;
+  margin-top:10%;
+}
+
+.contactform{
+	width:60%;
+	height:400px;
+	margin:2% auto;
+	background-color:#008080;
+}
+
+.contactform a{
+	color:#DFCAA0;
+	text-decoration:none;
+	margin-top:20%;
+}
+.myform{
+	display:none;
+}
+
+.conlab
+{
+	position:absolute;
+	top:50%;
+	left:25%;
+}
+
+.contact .sendEmail{
+	width:15%;
+	background-color:#DFCAA0;
+	position:absolute;
+	left:43%;
+	top:75%;
+}
+
+.consec h4{
+	display:none;
+	
+	
+}
+
+@media screen and (max-width:1020px)
+{
+	.innercc p{
+	margin-bottom:0;
+	}
+	.innercc
+	{
+	height:210px;
+	}
+	.consec 
+	{
+	width:80%;
+	}
+	.aboutpage
+{
+	height:820px;
+}
+.tiles
+{
+	width:80%;
+	left:10%;
+}
+		.index-footer-about
+{
+	position:relative;
+	background:black;
+	text-align:center;	
+	padding:15px;
+	color:#DFCAA0;
+	top:115%;
+	width:100%;
+}
+}
+
+
+
+
+
+
+@media screen and (max-width:2000px)
+{
+	section{
+	height:806px;
+	}
+	.index-footer
+	{
+	top:93%;
+	}
+	.education
+{
+	position:relative;
+	overflow:hidden;
+	height:800px;
+}
+
+.edusec
+{
+background-color:#DFCAA0;
+top:5%;
+width:60%;	
+left:20%;
+height:300px;
+}
+
+#inntable
+{
+	width:80%;
+position:static;
+
+ margin:50px auto;
+}
+.edusec2
+{
+width:60%;
+top:55%;
+background-color:#DFCAA0;
+height:300px;
+left:20%;
+}
+#sectable
+{
+width:80%;
+position:static;
+ margin:50px auto;
+
+}
+.index-footer-edu
+{
+	position:relative;
+	background:black;
+	text-align:center;	
+	padding:15px;
+	color:#DFCAA0;
+	top:10%;
+	width:100%;
+	clear:both;
+}
+.aboutpage
+{
+	height:820px;
+}
+.tiles
+{
+	width:80%;
+	left:10%;
+}
+		.index-footer-about
+{
+	position:relative;
+	background:black;
+	text-align:center;	
+	padding:15px;
+	color:#DFCAA0;
+	top:115%;
+	width:100%;
+}
+}
+
+@media screen and (max-width:1800px)
+{
+	.contact h3
+	{
+	text-align:center;
+	}
+	
+	.contact h5
+	{text-align:center;
+	
+	}
+	
+	.consec{
+	width:80%;
+	}
+
+
+	.aboutpage
+{
+	height:820px;
+}
+.tiles
+{
+	width:80%;
+	left:10%;
+}
+		.index-footer-about
+{
+	position:relative;
+	background:black;
+	text-align:center;	
+	padding:15px;
+	color:#DFCAA0;
+	top:115%;
+	width:100%;
+}
+.inntab
+{
+	width:40%;
+	height:450px;
+	color:#DFCAA0;
+	display:inline-block;
+	position:absolute;
+	top:45%;
+	left:7%;
+	color:black;
+}
+.innprojects
+{
+	width:40%;
+	height:450px;
+	color:#DFCAA0;
+	display:block;
+	position:absolute;
+	top:45%;
+	left:55%;
+	color:black;
+}
+}
+@media screen and (max-width: 1500px) and
+       (max-height: 821px) {
+    .imgdiv{
+    margin:1%;
+    height:500px;} 
+    .gifimg{
+    
+    margin-top:1%;
+    margin-right:2%;
+    height:420px;
+    }
+    
+    .aboutpage{
+    height:830px;
+    }
+    
+   .index-footer-about
+{
+	position:absolute;
+	top:92%;
+} 
+       }
+
+
+
+
+
+@media screen and (max-width:1200px) {
+	
+	section{
+	height:806px;
+	}
+	
+	.index-footer
+	{
+	top:93%;
+	}
+ 
+ .imgdiv{
+ display:inline-block;
+ width:40%;
+ }
+ .imgdiv p{
+ 
+top:100%; 
+left:4%;
+ }
+ .imgdiv img
+ {
+ width:80%;
+ }
+ .inntab
+ {
+ width:40%;
+ left:12%;
+ }
+ 
+ .innprojects
+ {
+ width:40%;
+ }
+ 
+.education
+{
+	position:relative;
+	overflow:hidden;
+	height:800px;
+}
+.edusec
+{
+background-color:#DFCAA0;
+top:5%;
+width:90%;	
+left:5%;
+height:300px;
+}
+
+#inntable
+{
+	width:80%;
+position:static;
+ margin-left: auto;
+ margin-right: auto;
+}
+.edusec2
+{
+width:90%;
+top:55%;
+background-color:#DFCAA0;
+height:300px;
+left:5%;
+}
+#sectable
+{
+width:80%;
+position:static;
+ margin-left: auto;
+ margin-right: auto;
+}
+.index-footer-edu
+{
+	position:relative;
+	background:black;
+	text-align:center;	
+	padding:15px;
+	color:#DFCAA0;
+	top:10%;
+	width:100%;
+	clear:both;
+}
+ .consec
+{
+	width:80%;
+	
+}
+.contact h3
+{
+	text-align:center;
+	padding:1px;
+}
+
+.contact h5
+{
+		text-align:center;
+		margin-bottom:0.1rem;
+}
+
+.subject
+{
+	margin:5px auto;
+}
+
+	
+	.aboutpage
+{
+	height:820px;
+}
+.tiles
+{
+	width:80%;
+	left:10%;
+}
+		.index-footer-about
+{
+	position:absolute;
+	background:black;
+	text-align:center;	
+	padding:15px;
+	color:#DFCAA0;
+	top:92%;
+	width:100%;
+}
+}
+
+@media screen and (max-width: 1200px) and
+       (max-height: 821px) {
+    .imgdiv{
+    margin:2%;
+    height:400px;} 
+    
+    .imgdiv p {
+    
+    top:107%;
+    }
+    .gifimg{
+    margin:2%;
+    height:400px;
+    }  
+       }
+
+
+@media screen and (max-width:900px)
+{
+	.inntab
+	{
+	left:8%;
+	width:45%;
+	}
+	 .consec
+{
+	width:80%;
+	top:30%;
+	left:10%;
+	
+}
+
+	.education
+{
+	position:relative;
+	overflow:hidden;
+	height:800px;
+}
+.edusec
+{
+background-color:#DFCAA0;
+top:5%;
+width:90%;	
+left:5%;
+height:300px;
+}
+
+#inntable
+{
+	width:80%;
+position:static;
+ margin:30px auto;
+}
+.edusec2
+{
+width:90%;
+top:55%;
+background-color:#DFCAA0;
+height:300px;
+left:5%;
+}
+#sectable
+{
+width:80%;
+position:static;
+ margin-left: auto;
+ margin-right: auto;
+}
+.index-footer-edu
+{
+	position:relative;
+	background:black;
+	text-align:center;	
+	padding:15px;
+	color:#DFCAA0;
+	top:10%;
+	width:100%;
+	clear:both;
+}
+.contact h3
+{
+	text-align:center;
+}
+
+.contact h5
+{
+		text-align:center;
+}
+
+.subject
+{
+	margin:5px auto;
+}
+.consec .sendEmail{
+	position:absolute;
+	top:75%;
+	margin-left:20%;
+	width:20%;
+	padding:10px;
+}
+
+.consec textarea
+{
+	position:absolute;
+	top:37%;
+	left:7%;
+}
+
+.conlab
+{
+	top:34%;
+	left:38%;
+}
+
+.consec input[type=text]
+{
+	position:absolute;
+	top:15%;
+	left:18%;
+	
+}
+
+.contactform .labsub{
+	position:absolute;
+	top:10%;
+	left:40%;
+}
+	
+.text-area
+{
+top:30%;
+}
+.aboutpage
+{
+	height:820px;
+}
+.tiles
+{
+	width:80%;
+	left:10%;
+}
+.index-footer-about
+{
+	position:relative;
+	background:black;
+	text-align:center;	
+	padding:15px;
+	color:#DFCAA0;
+	top:115%;
+	width:100%;
+}
+
+}
+
+@media screen and (max-width: 900px) and
+       (max-height: 821px) {
+ .imgdiv{
+ margin:2%;
+ width:40%;
+ height:400px;
+ }
+ 
+.imgdiv p
+{
+	top:107%;
+}
+ 
+ .imgdiv img
+ {
+ width:80%;
+ }
+ 
+ .gifimg{
+ margin:2%;
+ height:400px;
+ width:30%;
+ margin-right:5%;
+ }
+ 
+    .index-footer-about
+{
+	position:absolute;
+	top:92%;
+} 
+       
+}
+
+
+
+@media screen and (max-width:750px) {
+	
+	section{
+	height:700px;
+	}
+	.index-footer{
+	top:93%;
+	}
+	
+.gifimg
+{
+	height:400px;
+	width:40%;
+}
+
+.imgdiv
+{
+	height:400px;
+}
+.imgdiv img
+{
+	width:100%;
+}
+.education
+{
+	position:relative;
+	overflow:hidden;
+	height:800px;
+}
+.edusec
+{
+background-color:#DFCAA0;
+top:5%;
+width:90%;	
+left:5%;
+height:350px;
+}
+
+#inntable
+{
+	width:80%;
+position:static;
+ margin-left: auto;
+ margin-right: auto;
+	}
+.edusec2
+{
+width:90%;
+top:55%;
+background-color:#DFCAA0;
+height:300px;
+left:5%;
+}
+
+#sectable
+{
+width:80%;
+position:static;
+ margin-left: auto;
+ margin-right: auto;
+}
+.index-footer-edu
+{
+	position:relative;
+	background:black;
+	text-align:center;	
+	padding:15px;
+	color:#DFCAA0;
+	top:10%;
+	width:100%;
+	clear:both;
+}
+.contactform h3
+{
+	position:absolute;
+	top:10%;
+	text-align:center;
+	left:23%;
+}
+
+.contact h5
+{
+	text-align:center;
+	margin-bottom:0.3rem;
+}
+
+.subject
+{
+	margin:10px auto;
+}
+.contact a:link, a:visited {
+	
+top:85%;
+left:42%;
+	}
+	
+	.consec textarea{
+	left:3%;
+	}
+.text-area
+{
+	top:32%;
+}
+
+.tiles
+{
+	width:85%;
+	left:8%;
+}
+.aboutpage
+{
+	width:100%;
+	position:absolute;
+	overflow-y:scroll;
+	height:1200px;
+}
+		.index-footer-about
+{
+	position:absolute;
+	background:black;
+	text-align:center;	
+	padding:15px;
+	color:#DFCAA0;
+	top:92%;
+	width:100%;
+}
+.innercc
+{
+	width:70%;
+	left:15%;
+}
+.inntab
+{
+	display:block;
+	width:90%;
+	left:5%;
+}
+.innprojects
+{
+	float:none;
+	top:94%;
+	left:5%;
+	width:90%;
+}
+.exp
+{
+	height:1300px;
+	overflow-y:auto;
+}
+
+.consec label
+{
+	display:block;
+}
+
+
+.consec input[type=text]
+{
+	margin:20px 20px 20px 40px;
+}
+.consec .labsub{
+	position:absolute;
+	margin:10px 0px 20px 10px;
+}
+
+ .tiles{
+	position:absolute;
+	top:15%;
+	}
+}
+
+
+   .innercc{
+   left:10%;
+   }
+   .innprojects{
+   left:5%;
+   }
+       
+@media screen and (max-width: 750px) and
+       (max-height: 821px) {
+       
+       .exp{
+       position:absolute;
+       width:100%;
+       }
+}
+
+@media screen and (max-width:700px) {
+article p{
+	padding-bottom:1px;
+}
+body
+{
+	overflow:scroll;
+}
+	
+ 
+ .aboutpage{
+ height:821px;}
+.tiles{
+	width:80%;
+	left:0%;
+	height:600px;
+	top:5%;
+	position:relative
+}
+.first-tile
+{
+	position:absolute;
+	left:5%;
+	display:inline-block;
+	max-height:30%;
+	width:50%;
+	margin:5% auto;
+}
+
+.tnd-tile
+{
+position:absolute;
+top:1%	;
+left:55%;
+float:right;
+}
+
+.trd-tile{
+	position:absolute;
+	top:45%;
+	left:28%;
+}
+.tnd-tile,.trd-tile{
+	display:block;
+	
+	max-height:30%;
+	width:50%;
+	margin:4% auto;	
+}
+div .img-div
+{
+	height:100%;
+	margin:0;
+	
+}
+.tiles h3
+{
+	text-align:left;
+	padding-left:23%;
+}
+.trd-tile h3{
+	padding-left:10%;
+}
+.index-footer{
+	position:absolute;
+	top:93%;
+	width:100%;
+}
+
+.imgdiv
+{
+	height:400px;
+}
+
+.imgdiv img
+{
+	width:100%;
+}
+.gifimg
+{
+	height:400px;
+	width:40%;
+}
+.innercc{
+	width:70%;
+	left:16%;
+	top:5%;
+	height:210px
+}
+
+.innercc p
+{
+	margin-bottom:0;
+	
+}
+.exp
+{
+	height:1300px;
+	position:relative;
+}
+.inntab
+{
+	top:25%;
+	width:80%;
+}
+
+.innprojects
+{
+	top:62%;
+	left:8%;
+	width:80%;
+}
+.index-footer-exp
+{
+	background-color:black;
+	width:100%;
+	height:60px;
+	text-align:center;
+	color:#DFCAA0;
+}
+.index-footer-exp p
+{
+	padding-top:20px;
+}
+.education
+{
+	position:relative;
+	height:800px;
+}
+.edusec
+{
+background-color:#DFCAA0;
+top:5%;
+width:90%;	
+left:5%;
+height:320px;
+}
+
+#inntable
+{
+	width:80%;
+position:static;
+ margin-left: auto;
+ margin-right: auto;
+	}
+	
+.edusec2
+{
+width:90%;
+top:50%;
+background-color:#DFCAA0;
+height:320px;
+left:5%;
+}
+.index-footer-edu
+{
+	position:relative;
+	background:black;
+	text-align:center;	
+	padding:15px;
+	color:#DFCAA0;
+	top:120%;
+	width:100%;
+}
+.contact h3
+{
+	text-align:center;
+	padding:2px;
+	margin-bottom:0.2rem;
+}
+
+.contact h5
+{
+	text-align:center;
+	margin-top:0.5rem;
+}
+.contact a:link, a:visited {
+	
+top:85%;
+left:40%;
+	}
+	
+	.subject
+	{
+	margin-top:5px;
+	}
+		.index-footer-about
+{
+	position:relative;
+	background:black;
+	text-align:center;	
+	padding:15px;
+	color:#DFCAA0;
+	top:110%;
+	width:100%;
+}
+
+.consec textarea
+{
+	left:2%;
+}
+}
+
+@media screen and (max-width: 700px) and
+       (max-height: 821px) {
+       
+   .innercc{
+   left:14%;
+   }
+   
+   .inntab{
+   left:10%;
+   }
+   
+   .innprojects{
+   left:10%;
+   }
+   
+   .tiles{
+	width:60%;
+	left:0%;
+	height:500px;
+	top:12%;
+	position:absolute;
+	left:20%;
+}
+.index-footer-about
+{
+	position:absolute;
+	background:black;
+	text-align:center;	
+	padding:15px;
+	color:#DFCAA0;
+	top:92%;
+	width:100%;
+}
+}
+       
+       
+
+@media screen and (max-width:607px)
+{
+	.education{
+	height:850px;
+	}
+	
+	.edusec
+	{
+	height:380px;
+	}
+	
+	.edusec2
+	{
+	top:55%;
+	}
+	#inntable
+	{
+	margin:20px auto;
+	}
+	.index-footer-about{
+	top:110%;
+	}
+	
+	.tiles{
+	top:23%;
+	}
+}
+
+@media screen and (max-width:607px)and
+       (max-height: 821px) {
+       .innercc{
+       left:15%;
+       }
+       .inntab{
+       left:10%;
+       }
+       .innprojects{
+       left:10%;
+       }
+}
+
+@media screen and (max-width:590px)and
+       (max-height: 821px) {
+
+	section{
+	height:700px;
+	}
+	.contact-header h2{
+	font-size:25px;
+	}
+	.index-footer-about{
+	top:110%;
+	}
+	.tiles
+	{
+	top:23%;
+	width:80%;
+	left:10%;
+	}
+	
+	.innercc{
+	left:14%;}
+	
+	.inntab{
+	left:10%;
+}
+
+.innprojects{
+	left:10%;
+}
+}
+
+
+
+@media screen and (max-width:450px)
+{
+section{
+	height:1000px;
+}
+	.education{
+	height:1000px;
+	}
+.imgdiv{
+display:block;
+width:90%;
+margin:1% auto;
+}
+.gifimg
+{
+	float: none;
+margin:18% auto;
+width:90%;
+}
+.inntab{
+width:90%;
+left:5%;
+}
+.edusec
+{
+background-color:#DFCAA0;
+top:5%;
+width:90%;	
+left:5%;
+height:450px;
+}
+
+#inntable
+{
+left:12%;
+position:static;
+ margin-left: auto;
+ margin-right: auto;
+	}
+.edusec2
+{
+width:90%;
+top:55%;
+background-color:#DFCAA0;
+height:370px;
+left:5%;
+}
+#sectable
+{
+width:80%;
+position:static;
+ margin-left: auto;
+ 	margin-right: auto;
+}
+.index-footer-edu
+{
+	position:relative;
+	background:black;
+	text-align:center;	
+	padding:15px;
+	color:#DFCAA0;
+	top:120%;
+	width:100%;
+}
+.education
+{
+	position:relative;
+}
+
+.contact-header h2
+{
+font-size:20px;
+border-radius:0;
+border:none;
+color:#DFCAA0;
+margin-top:0.2rem;
+}
+
+.contact h3
+{
+	font-family:Georgia;
+	margin-bottom:0.2rem;
+	padding:1px;
+	position:absolute;
+	left:10%;
+	display:inline;
+	top:12%;
+
+}
+
+.contact h5
+{
+	font-family:Georgia;
+	text-align:center;
+	margin-bottom:0.2rem;
+}
+
+.contactform
+{
+	width:80%;
+	margin:5% auto;
+}
+.contactform .labsub
+{
+	left:35%;
+}
+
+.conlab{
+	left:30%;
+}
+.consec input[type=text]
+{
+	width:70%;
+	left:5%;
+}
+.contact a:link, a:visited {
+	
+top:85%;
+left:32%;	
+}
+
+.consec textarea
+{
+	margin:20px 20px 20px 30px;
+	left:7%;
+	width:70%;
+	
+}
+
+.consec .sendEmail
+{
+	left:15%;
+	width:30%;
+}
+.text-area
+	{
+	top:33%;
+	}
+	
+	.aboutpage
+	{
+	height:900px;
+	}
+	.tiles
+	{
+	top:2%;
+	}
+	.index-footer-about
+{
+	position:relative;
+	background:black;
+	text-align:center;	
+	padding:15px;
+	color:#DFCAA0;
+	top:110%;
+	width:100%;
+}
+.innercc
+{
+	width:70%;
+	left:15%;
+	height:270px;
+	top:3%;
+}
+.innercc li
+{
+	padding:5px;
+}	
+.innprojects
+{
+	top:62%;
+	left:5%;
+	width:90%;
+}
+.index-footer{
+	top:137%;
+}
+.imgdiv p{
+	top:105%;
+	font-size:20px;
+	left:12%;
+}
+.gifimg h4{
+	margin-left: 8%;
+}
+}
+@media screen and (max-width: 450px) and
+       (max-height: 821px) {
+       .aboutpage{
+       height:705px;
+       }
+       .index-footer-about{
+       position:absolute;
+       top:101%;
+       }
+       .tiles
+       {
+       top:25%;
+       width:80%;
+       left:10%;}
+}
+
+
+
+
+
+
+@media screen and (max-width:390px) {
+ .navbar
+ {
+ width:100%;
+  z-index:1;
+ 
+ }
+ 
+ header
+ {
+ z-index:1;
+ width:100%;
+
+ }
+ 
+ body{
+ overflow:scroll;
+ }
+ section{
+ position:relative;
+ padding:0;
+ height:1050px;
+ }
+ .imgdiv{
+ display:block;
+ width:90%;
+ position:absolute;
+ top:2%;
+ left:5%;
+ }
+ .imgdiv p{
+ 
+top:105%; 
+left:7%;
+margin:1% auto;
+font-family:Georgia;
+ }
+ .gifimg h4
+ {
+ margin-top:6%;
+ font-family:Georgia;
+ margin-left:2%;
+ }
+ .imgdiv img
+ {
+ width:100%;
+ }
+ 
+ .gifimg
+ {
+ width:90%;
+ float:none;
+ position:absolute;
+ top:43%;
+ left:5%;
+ margin-bottom:10%;
+ margin-top:11%;
+ }
+ 
+ .first-tile{
+	display:block;
+	float:none;
+	max-height:20%;
+	width:70%;
+	margin:5% auto;	
+	left:15%;
+}
+.tnd-tile,.trd-tile{
+	display:block;
+	float:none;
+	max-height:20%;
+	width:70%;
+	margin:10% auto;
+}
+
+.tnd-tile
+{
+position:absolute;
+top:28%	;
+left:17%;
+}
+
+.trd-tile{
+	position:absolute;
+	top:58%;
+	left:16%;
+}
+.tiles h3
+{
+	text-align:left;
+	padding-left:20%;
+}
+
+.tiles,.trd-tile h3
+{
+	text-align:left;
+	padding-left:5%;
+}
+
+.index-footer{
+		top:125%;
+		position:relative;
+}
+.first-tile .img-div,.tnd-tile .img-div, .trd-tile .img-div{
+	width:100%;
+}
+
+.innercc
+{
+	width:70%;
+	left:15%;
+	height:295px;
+	top:3%;
+}
+.innercc h2
+{
+	margin-top:4%;
+}
+
+.inntab{
+	display:block;
+	top:28%;
+	width:95%;
+	left:3%;
+}
+#firsttable
+{
+	max-width:20%;
+	height:200px;
+}
+
+.tiles{
+	top:25%;
+}
+
+.innprojects
+{
+	display:block;
+	top:65%;
+	left:3%;
+	width:95%;
+	height:400px;
+}
+.innprojects h2{
+	margin-top:5%;
+}
+.exp
+{
+	height:1300px;
+	position:relative;
+}
+
+.index-footer-exp
+{
+	background-color:black;
+	width:100%;
+	height:60px;
+	text-align:center;
+	color:#DFCAA0;
+}
+.index-footer-exp p
+{
+	padding-top:20px;
+}
+
+.education
+{
+	position:relative;
+	overflow:hidden;
+	height:900px;
+	width:100%;
+	overflow:auto;
+}
+
+.edusec
+{
+	background-color:#DFCAA0;
+	width:90%;
+	left:5%;
+	height:400px;
+	top:2%;
+	margin-top:3%;
+}
+
+#inntable
+{
+	max-width:40%;
+	left:10%;
+	border-spacing:1px;
+	position:absolute;
+	top:8%;
+	
+}
+#inntable td,th
+{
+	padding:3px;
+}
+
+.edusec2
+{
+	background-color:#DFCAA0;
+	width:90%;
+	left:5%;
+	height:330px;
+	top:52%;
+	margin-top:5%;
+}
+
+.education h2
+{
+	margin-top:4%;
+}
+
+ #sectable
+{
+	width:80%;
+	left:10%;
+	border-spacing:1px;
+	position:absolute;
+	top:1%;
+	margin-top:45px;
+}
+.index-footer-edu
+{
+	position:relative;
+	background:black;
+	text-align:center;	
+	padding:15px;
+	color:#DFCAA0;
+	top:120%;
+	width:100%;
+	clear:both;
+}
+
+.aboutpage
+{
+	height:900px;
+}
+
+.index-footer-about
+{
+	position:absolute;
+	background:black;
+	text-align:center;	
+	padding:15px;
+	color:#DFCAA0;
+	top:115%;
+	width:100%;
+}
+.contact
+{
+	position:relative;
+	height:1
+	
+}
+.contact-header h2
+{
+font-size:20px;
+border-radius:0;
+border:none;
+color:#DFCAA0;
+}
+.contact-header
+{
+	background-color:black;
+	height:80px;
+	text-align:left;
+	margin:0;
+	padding:15px;
+}
+.consec
+{
+	top:10%;
+}
+.contact a:link, a:visited {
+	
+top:85%;
+left:31%;
+	}
+	
+	.text-area
+	{
+	top:30%;
+	}
+	
+.contactform{
+	position:absolute;
+	left:10%;
+	width:80%;
+	top:7%;
+}
+.contactform .mycon
+{
+	left:2%;
+}
+.contactform .labsub{
+	top:5%;
+	left:25%;
+}
+.consec input[type=text]
+{
+	width:85%;
+	left:1%;
+		margin:20px 20px 20px 20px;
+		top:13%;
+	
+}
+.consec label{
+	left:20%;
+}
+.consec textarea{
+	margin:20px 20px 20px 20px;
+	width:80%;
+}
+.contactform .sendEmail
+{
+	top:85%;
+	left:15%;
+	width:30%;
+}
+.blog h3
+{
+	padding:30px;
+	font-style:italic;
+	position:absolute;
+	top:30%;
+	left:5%;
+}
+}
+
+
+
+
